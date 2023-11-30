@@ -14,7 +14,7 @@ public class StackApp2 {
 		}
 		
 	}
-	
+	 
 	public static boolean check(String text) {
 		// 텍스트의 첫번째 문자가 '('이면 false를 반환한다.
 		if (text.charAt(0) == ')') {
